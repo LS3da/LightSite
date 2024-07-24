@@ -1,1 +1,1 @@
-# LightScratch3daのテストページでありページ(?)
+# LightScratch3daのテストページ
